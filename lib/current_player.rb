@@ -9,5 +9,3 @@ def turn_count(board)
     puts count
 end
 end
-
-
