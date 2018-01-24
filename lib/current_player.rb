@@ -3,8 +3,7 @@ counter = 0
 
 def turn_count(board)
   if board.each do |count|
-    puts counter = counter +1
-end
+    
 end
 end
 
