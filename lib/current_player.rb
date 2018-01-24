@@ -13,3 +13,4 @@ end
 def current_player(board)
   if counter == odd
 end
+end
