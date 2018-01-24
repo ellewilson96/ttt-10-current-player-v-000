@@ -2,8 +2,8 @@
 counter = 0
 
 def turn_count(board)
-  board.each do |count|
-    puts count
+  if board.each do |count|
+    counter = counter + 1
 end
 end
 
